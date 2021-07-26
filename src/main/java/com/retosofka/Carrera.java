@@ -109,6 +109,8 @@ public class Carrera {
             }
         }while(iterador<3);
         
+        
+        //--------Creacion de archivo txt(Base de datos)---------
         File archivo;
         int contador = 1;
 

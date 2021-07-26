@@ -1,3 +1,0 @@
-1. con ID 1 y alias rty
-2. con ID 3 y alias vbn
-3. con ID 2 y alias fgh

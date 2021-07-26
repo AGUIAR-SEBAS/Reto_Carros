@@ -89,11 +89,7 @@ public class Ingresar {
        return auto;
    }
 
-   //----------------EJECUTANDO EL JUEGO-------------------------
    
-   
-
-    
 }
 
 
